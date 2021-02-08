@@ -1,0 +1,66 @@
+c:\users\famil\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+c:\users\famil\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+c:\users\famil\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+c:\users\famil\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+c:\users\famil\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+c:\users\famil\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+c:\users\famil\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+c:\users\famil\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+c:\users\famil\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\chrome crystal\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\Famil\Desktop\chrome crystal\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\Famil\Desktop\chrome crystal\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\chrome crystal\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\Famil\Desktop\chrome crystal\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\chrome crystal\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+C:\Users\Famil\Desktop\chrome crystal\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+C:\Users\Famil\Desktop\chrome crystal\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\Famil\Desktop\chrome crystal\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+C:\Users\Famil\Desktop\chrome crystal — копия\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\Famil\Desktop\chrome crystal — копия\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\Famil\Desktop\chrome crystal — копия\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\chrome crystal — копия\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\Famil\Desktop\chrome crystal — копия\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\chrome crystal — копия\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+C:\Users\Famil\Desktop\chrome crystal — копия\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+C:\Users\Famil\Desktop\chrome crystal — копия\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\Famil\Desktop\chrome crystal — копия\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+C:\Users\Famil\Desktop\Selenium C#\chrome crystal — копия\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\Famil\Desktop\Selenium C#\chrome crystal — копия\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\Famil\Desktop\Selenium C#\chrome crystal — копия\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\Selenium C#\Gamebookers Chrome\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\Famil\Desktop\Selenium C#\Gamebookers Chrome\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\Famil\Desktop\Selenium C#\Gamebookers Chrome\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\Selenium C#\Gamebookers Chrome\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\Famil\Desktop\Selenium C#\Gamebookers Chrome\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\Selenium C#\Gamebookers Chrome\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+C:\Users\Famil\Desktop\Selenium C#\Gamebookers Chrome\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+C:\Users\Famil\Desktop\Selenium C#\Gamebookers Chrome\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\Famil\Desktop\Selenium C#\Gamebookers Chrome\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+C:\Users\Famil\Desktop\Selenium C#\selenium get dork\test\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\Famil\Desktop\Selenium C#\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\Famil\Desktop\Selenium C#\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\Selenium C#\selenium get dork\test\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\Famil\Desktop\Selenium C#\selenium get dork\test\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\Selenium C#\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+C:\Users\Famil\Desktop\Selenium C#\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+C:\Users\Famil\Desktop\Selenium C#\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\Famil\Desktop\Selenium C#\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+C:\Users\Famil\Desktop\selenium get dork\test\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\Famil\Desktop\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\Famil\Desktop\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\selenium get dork\test\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\Famil\Desktop\selenium get dork\test\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\Famil\Desktop\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+C:\Users\Famil\Desktop\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+C:\Users\Famil\Desktop\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\Famil\Desktop\selenium get dork\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\c#\selenium get dork Google\test\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\User\Desktop\c#\selenium get dork Google\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\User\Desktop\c#\selenium get dork Google\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+C:\Users\User\Desktop\c#\selenium get dork Google\test\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\User\Desktop\c#\selenium get dork Google\test\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\User\Desktop\c#\selenium get dork Google\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+C:\Users\User\Desktop\c#\selenium get dork Google\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\User\Desktop\c#\selenium get dork Google\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\c#\selenium get dork Google\test\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
