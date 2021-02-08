@@ -1,3 +1,3 @@
 
 
-![Alt Text](https://media.giphy.com/media/kGIwy6c6DfBKXfTYbk/giphy.gif | width=600)
+![Alt Text](https://media.giphy.com/media/kGIwy6c6DfBKXfTYbk/giphy.gif)
