@@ -1,5 +1,5 @@
 <h1>Requirements</h1>
-<p>Selenium WebDriver for suitable google chrome browser(Current version is ChromeDriver 88.0.4324.96)</p>
+<p>Selenium WebDriver for suitable google chrome browser version(Current version is ChromeDriver 88.0.4324.96)</p>
 <a href="https://www.selenium.dev/">Selenium WebDriver</a>
 
 <h1>Description</h1>
